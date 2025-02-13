@@ -28,23 +28,6 @@
     Run `php artisan serve`
 
 
-## :camera: Preview
-
-#### Login Page
-
-![image](https://user-images.githubusercontent.com/74814002/189502588-aaeba389-c599-449b-b23b-c4cece8d4f21.png)
-
-#### Dashboard Page
-
-![image](https://user-images.githubusercontent.com/74814002/189502602-3b497a67-f620-47b8-9e12-e8b26af401db.png)
-
-#### Create Instance Sample Page
-
-![image](https://user-images.githubusercontent.com/74814002/189502625-9532f029-fbd2-42ee-8f07-0083fd9dc31a.png)
-
-#### List Instances Sample Page
-
-![image](https://user-images.githubusercontent.com/74814002/189502787-09a2b41c-4b42-4039-9609-1141913b475b.png)
 
 ## :file_folder: License
 
